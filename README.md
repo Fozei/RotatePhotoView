@@ -1,3 +1,5 @@
+# RotatePhotoView
+Modified PhotoView based on chrisbanes/PhotoView
 When use the perfect lib PhotoView, find it does not implement the photo rotate function. This is
 a small modification to do that.
 
