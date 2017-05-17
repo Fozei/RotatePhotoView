@@ -1,3 +1,9 @@
+When use the perfect lib PhotoView, find it does not implement the photo rotate function. This is
+a small modification to do that.
+
+Below is the author's Readme, for more detail :
+https://jitpack.io/#chrisbanes/PhotoView
+
 # PhotoView
 PhotoView aims to help produce an easily usable implementation of a zooming Android ImageView.
 
